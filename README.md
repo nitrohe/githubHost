@@ -1,8 +1,8 @@
 # github Host
 
-## *windows*
+>  github代码clone加速， 查找域名对应的ip地址，并修改hosts文件；
 
->  github代码clone加速
+## *windows*
 
 ### get host
 
@@ -13,11 +13,11 @@
 
  写入到hosts文件中
 
-### switch host set
+### SwitchHosts  set
  SwitchHosts 软件设置远程 hosts更新规则 `https://gitee.com/nitrohe/githubHost/raw/master/hosts` （使用的是码云上的hosts文件，防止github ip更新时获取不到）
 
 备用`https://raw.githubusercontent.com/nitrohe/githubHost/master/hosts`
 
-### manual modify
+### manually set
 
 `手动更新文件C:\Windows\System32\drivers\etc\hosts` 
