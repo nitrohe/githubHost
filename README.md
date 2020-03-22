@@ -21,3 +21,7 @@
 ### manually set
 
 `手动更新文件C:\Windows\System32\drivers\etc\hosts` 
+
+### 刷新DNS缓存
+
+在cmd中输入ipconfig /flushdns命令即可 ;
